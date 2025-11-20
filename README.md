@@ -33,7 +33,7 @@ This repository was built to consolidate and reuse Anki templates for:
 ## 📸 Template Preview
 
 ### Python Template (`anki-templates/programming/python`)
-![Vocabulary Card Example](anki-templates/programming/python/python-card-example.png)
+![Vocabulary Card Example](anki-templates/programming/python/example_py.png)
 
 ---
 
